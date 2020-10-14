@@ -475,7 +475,6 @@
             this.ClientSize = new System.Drawing.Size(860, 473);
             this.Controls.Add(this.splitContainer1);
             this.Name = "Editor";
-            this.ShowInTaskbar = false;
             this.Text = "MarkDown Editor";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Editor_FormClosing);
             this.splitContainer1.Panel1.ResumeLayout(false);
